@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\rest-with-asp-net-10\\04_RestWithASPNET10\\RestWithASPNET10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8BE427-1918-45AF-B9CF-8ED205A72862}|RestWithASPNET10\\RestWithASPNET10.csproj|e:\\rest-with-asp-net-10\\04_restwithaspnet10\\restwithaspnet10\\restwithaspnet10\\restwithaspnet10.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DD8BE427-1918-45AF-B9CF-8ED205A72862}|RestWithASPNET10\\RestWithASPNET10.csproj|solutionrelative:restwithaspnet10\\restwithaspnet10.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8BE427-1918-45AF-B9CF-8ED205A72862}|RestWithASPNET10\\RestWithASPNET10.csproj|e:\\rest-with-asp-net-10\\04_restwithaspnet10\\restwithaspnet10\\restwithaspnet10\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD8BE427-1918-45AF-B9CF-8ED205A72862}|RestWithASPNET10\\RestWithASPNET10.csproj|solutionrelative:restwithaspnet10\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestWithASPNET10.http",
+              "DocumentMoniker": "E:\\rest-with-asp-net-10\\04_RestWithASPNET10\\RestWithASPNET10\\RestWithASPNET10\\RestWithASPNET10.http",
+              "RelativeDocumentMoniker": "RestWithASPNET10\\RestWithASPNET10.http",
+              "ToolTip": "E:\\rest-with-asp-net-10\\04_RestWithASPNET10\\RestWithASPNET10\\RestWithASPNET10\\RestWithASPNET10.http",
+              "RelativeToolTip": "RestWithASPNET10\\RestWithASPNET10.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-06T13:22:14.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\rest-with-asp-net-10\\04_RestWithASPNET10\\RestWithASPNET10\\RestWithASPNET10\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNET10\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\rest-with-asp-net-10\\04_RestWithASPNET10\\RestWithASPNET10\\RestWithASPNET10\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestWithASPNET10\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-28T00:36:00.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
